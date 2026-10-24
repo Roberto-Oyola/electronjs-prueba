@@ -1,0 +1,23 @@
+{
+  "name": "electronjs-prueba",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Roberto-Oyola/electronjs-prueba.git"
+  },
+  "author": "Slr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Roberto-Oyola/electronjs-prueba/issues"
+  },
+  "homepage": "https://github.com/Roberto-Oyola/electronjs-prueba#readme",
+  "devDependencies": {
+    "electron": "^45.0.0"
+  }
+}
